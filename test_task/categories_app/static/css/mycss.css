@@ -1,0 +1,27 @@
+.body {
+    background: linear-gradient(93deg, #6d1dec 0%, #3e0985 101%);
+}
+
+.p {
+    color: blue;
+}
+
+.nav-item {
+    margin-top: 2rem;
+}
+
+.cat-nav {
+    margin-top: 2rem;
+    margin-right: 1rem;
+}
+
+.content-cat {
+    border: 0.05em solid black;
+}
+
+.content-cat {
+    border: 0.05em solid red;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
